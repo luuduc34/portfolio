@@ -11,7 +11,7 @@
 
 ## Language used
 
-Javascript, HTML, SCSS(sass)
+JavaScript, HTML, SCSS(sass)
 
 ## Link to the portfolio
 
