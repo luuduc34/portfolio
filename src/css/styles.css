@@ -670,4 +670,13 @@ section {
   transform: translate(-50%, -50%);
   font-weight: 800;
   font-size: 6rem;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    padding: 0;
+  }
+  header .right-header {
+    padding: 2rem !important;
+  }
 }/*# sourceMappingURL=styles.css.map */
